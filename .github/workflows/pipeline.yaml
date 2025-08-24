@@ -25,4 +25,5 @@ jobs:
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v4
       with:
-        name: publish             
+        name: publish
+        path: ./publish 
