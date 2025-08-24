@@ -1,4 +1,3 @@
-# Crie um pipeline para uma aplicação .Net 6 em GitHub Actions
 
 name: .NET 6
 
